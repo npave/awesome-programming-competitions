@@ -19,6 +19,7 @@ These competitions require you to exercise algorithmic and data structure knowle
 * [Project Euler](https://projecteuler.net/) - A series of 600+ mathematical/computer programming problems.
 * [Topcoder](https://www.topcoder.com/) - Online computer programming competitions in the Java, C++, and C# languages. Competitions take place twice a week, and members can win from $25-$300.
 * [USACO](http://usaco.org) - Strictly for high schoolers, this algorithmic competition identifies talent for the US IOI team. Runs from December to March.
+* [Coder Bloom](https://coderbloom.org/) - Monthly programming competitions for Hispanic women, with problems provided in Spanish. Participants can use C++, Python, or Java to solve the challenges. The competition is divided into two categories: beginners and advanced.
 
 ## Games
 
